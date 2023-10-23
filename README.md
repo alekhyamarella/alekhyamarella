@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alekhyamarella194
 - 👀 I’m interested in Cloud
-- 🌱 I’m currently learning to be a DevOps Engineer
+- 🌱 I’m currently on the journey of Cloud DevOps
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 you can reach me at alekhyamarella194@gmail.com 
 
