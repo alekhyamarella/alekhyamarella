@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alekhyamarella194
+- 👋 Hi, I’m alekhya marella
 - 👀 I’m interested in Cloud
 - 🌱 I’m currently on the journey of Cloud DevOps
 - 💞️ I’m looking to collaborate on DevOps projects
