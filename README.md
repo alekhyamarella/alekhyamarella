@@ -1,7 +1,7 @@
 - 👋 Hi, I’m alekhya marella
-- 👀 I’m interested in Cloud
-- 🌱 I’m currently on the journey of Cloud DevOps
-- 💞️ I’m looking to collaborate on DevOps projects
+- 👀 I’m a Product Designer & Illustrator
+- 🌱 I’m currently on the journey of UI/UX
+- 💞️ I’m looking to collaborate on UI/UX Design projects
 - 📫 you can reach me at alekhyamarella194@gmail.com 
 
 <!---
