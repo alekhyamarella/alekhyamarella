@@ -1,7 +1,7 @@
 - 👋 Hi, I’m alekhya marella
-- 👀 I’m a Product Designer & Illustrator
-- 🌱 I’m currently on the journey of UI/UX
-- 💞️ I’m looking to collaborate on UI/UX Design projects
+- 👀 I’m a Cloud Enthusiast
+- 🌱 I’m currently on the journey of Cloud
+- 💞️ I’m looking to collaborate on Cloud and Devop projects
 - 📫 you can reach me at alekhyamarella194@gmail.com 
 
 <!---
